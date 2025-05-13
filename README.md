@@ -31,7 +31,6 @@ Built using Python's `requests` library.
 ## 🗂️ Project Structure
 
 ├── zoom.py # Main script
-|
 ├── README.md # This documentation
 
 ---
